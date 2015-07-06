@@ -1,0 +1,33 @@
+
+#header {
+    background-color: darkgray;
+}
+#home {
+    background-image: url(assets/big_img.jpg);
+    max-height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+#tagline {
+    color: black;
+    font-size: 250%;
+    font-family: verdana;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 500px;
+}
+p span {
+    
+}
+#taglinetext{
+    padding-left: 50px;
+    padding-bottom: px;
+    font-size: 20px;
+    font-style: italic;
+}
+#blogpost {
+    color:darkgray;
+    font-size: 200%;
+}
