@@ -12,7 +12,4 @@ Your task is to create the [QUORA](https://www.quora.com/) login page.
 6. Target to have **at least 10 commits to the project**.
 7. Organize your work well.
 
-
-
-
 All the best.
