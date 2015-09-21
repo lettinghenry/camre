@@ -6,9 +6,7 @@ Steps To DO
 1. Take repo and Fork into your own username
 2. Clone your own Fork from url in lower right
 3. On command line, "git checkout -b (github username)"  For example: `git checkout -b tamzi`
-
 4. Do the assessment!
-
 5. `git add` all changed and created files.
 6. `git commit` all changes
 7. Then do: "git push origin (github username)" For example: `git push origin tamzi`
