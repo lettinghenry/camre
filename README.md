@@ -21,11 +21,10 @@ Steps To DO
 ## Submitting Solutions
 
 **VERY IMPORTANT: Before submitting your solutions, find and fix all syntax errors**
-
 Solutions are submitted via [Pull Request](https://help.github.com/articles/using-pull-requests). Follow these steps:
 
-1. From **your fork**, select `Pull Requests` and then create a `New pull request`. 
-2. STOP. *Before* you `Click to create a pull request for this comparison` you must **adjust the target branch** (aka `base branch`) to be your username. Once changed, the pull-request heading should look like this:
+ 1. From **your fork**, select `Pull Requests` and then create a `New pull request`.
+ 2. STOP. *Before* you `Click to create a pull request for this comparison` you must **adjust the target branch** (aka `base branch`) to be your username. Once changed, the pull-request heading should look like this:
 
   > moringaschool:username ... username:master
   
