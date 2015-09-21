@@ -13,7 +13,7 @@ Assets are contained in the assets folder.
 - Create a Proper readme explaining what the project is about
 - Comment your code
 - host your project on bitballoon and create a link to it on the description section of your project.
-It can read sth like: search for anything online.visit www.google.com to check it out.
+ It can read sth like: search for anything online.visit www.google.com to check it out.
 
 
 All the best
