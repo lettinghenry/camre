@@ -1,5 +1,10 @@
 # Self_Assessments
-Repo containing the Self Assessments
+Repo containing the Self Assessments:
+
+1. [clone](https://github.com/moringaschool/FrontEndExercises/tree/master/clone):
+ - Build website clones
+2. [psd2html](https://github.com/moringaschool/FrontEndExercises/tree/master/psd2html):
+ - Transform a the psd page to a website
 
 Steps To DO
 
