@@ -20,7 +20,7 @@ Create a responsive HTML,CSS  and JS one page website with the start folder as a
 #### Deliverables
 - Commit your changes to github
 - Create a Proper readme explaining what the project is about
-- Comment out your code
+- Comment out your code.
 - Host your project on bitballoon and create a link to it on the description section of your project.
 
 		It can read sth like:
