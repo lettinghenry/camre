@@ -1,11 +1,15 @@
-#### Project iMax
-
-The task is to re-create [imax](https://www.imax.com/)
-
-with the effects that it has.
+### f2
+Create a responsive HTML,CSS  and JS one page website with the start folder as a guide
+- Build a one pager website for **a cinema.**
+- Give it a name of your choice
+- Get images  and videos from the web.
 
 
  **Let the website have the following navigation menus:**
+- about your restaurant
+- menu of several foods
+- contacts: email and telephone number plus a form for placing an order
+- location(integrate maps- its located in Warsaw, Poland pick a location in Warsaw)
 
 ** *Important:* **
 - Use [modernizr](https://modernizr.com/) in this website.
@@ -26,4 +30,3 @@ with the effects that it has.
 
 
 All the best
-

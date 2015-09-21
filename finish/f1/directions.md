@@ -12,10 +12,10 @@ Create a responsive HTML,CSS  and JS one page website with the start folder as a
 
 
 ** *Important:* **
-- Use modernizr in this website.
+- Use [modernizr](https://modernizr.com/) in this website.
 - Your website should be responsive (We will test it on mobile to check whether it is working)
 - You have to use the **Roboto Condensed** and **Poiret One** font from google Fonts. and
-- Choose at least five of the animations to use in your project.
+-
 
 #### Deliverables
 - Commit your changes to github
