@@ -1,9 +1,10 @@
 # Exercise One: Front End Assessment
-Create a responsive HTML and CSS one page website using core_guide.jpg as a guide to how it will look like.
+ - Create a website using core.jpeg as a guide to how it will look like.
+ - You can get any image to be used in the various place holder images.
+
 Important:
-Do not Use bootstrap in this website.
-You may use a font of your liking.
-Do not change the layout or image sizes.
+- Do not change the layout or image sizes.
 
 
-All the best
+
+#### All the best
