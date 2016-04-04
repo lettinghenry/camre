@@ -1,5 +1,5 @@
 # Exercise One: Front End Assessment
- - Create a website using core.jpeg as a guide to how it will look like.
+ - Create a website using [core.jpeg](https://github.com/moringaschool/FrontEndExercises/blob/master/psd2html/e1/core.jpeg) as a guide to how it will look like.
  - You can get any image to be used in the various place holder images.
 
 Important:
