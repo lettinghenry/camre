@@ -4,6 +4,8 @@
 
 Important:
 - Do not change the layout or image sizes.
+- Use [font awesome](https://fortawesome.github.io/Font-Awesome/) for icons.
+- Use [Google fonts](https://www.google.com/fonts) for fonts.
 
 
 
