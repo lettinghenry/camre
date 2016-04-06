@@ -12,7 +12,9 @@ Important:
 - For the various paragraphs at **Services, Our History and Journal** use [Professional Ipsum generator](http://generator.lorem-ipsum.info/).
 
 
+
 EXTRA CREDITS
+(This is done upon completion of the above)
 - Add an animation to the website.
 - Create a Hover effect for the various social sites such that on hover, they will display their respective colours: 
     - Facebook will on hover display facebook blue. etc
