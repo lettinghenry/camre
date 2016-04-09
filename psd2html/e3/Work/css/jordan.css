@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    width: 100%;
+    height:100%;
+}
+
+#wrappet{
+ margin: 0 auto;
+ width: 40%;
+ height:100%;
+}
+
+#title{
+  width: 100%;
+  height:14%;
+  background-color: #565A69;
+  color: orange;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 3%;
+    font-weight: 900;
+}
+#middlet{
+width:100%; 
+height:84%;
+background-size: contain;
+background-image: url(assets/bg.jpg);
+background-repeat: no-repeat;
+}
+
+#middle{
+width:100%;
+height:87%;
+background-color: rgba(255,250,250,0.4);
+}   
+.middlers1{
+    height: 50%;
+    width: 100%;
+    padding-top: 20%;
+}
+
+.middlers{
+    height: 50%;
+    width: 100%;
+    background-color:;
+}
+
+#below{
+width: 100%;
+height: 16%;
+background-color: #565A69;
+}
+
+.belows{
+width:33.33%;
+height: 100%;
+color: blueviolet;
+float: left;
+border-left: 1px solid grey;
+}
+
+.innet{
+ height: 100%;
+ width: 33.3%;
+float: left;
+
+}
+img{
+ padding-left: 16%;
+object-position: center;
+float: left;   
+}
+#rounded{
+    height:91%;
+    width:80%;
+padding-left:0;
+object-position: center;
+float: left;
+}
