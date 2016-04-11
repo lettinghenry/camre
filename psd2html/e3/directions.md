@@ -1,4 +1,4 @@
-# Exercise Two: Front End Assessment
+# Exercise Three: Front End Assessment
 
 - You have 2 Hours to complete this task.
 - You are expectd to use foundation-zurb framework for this task.
