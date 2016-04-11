@@ -28,22 +28,40 @@ margin-right: auto;
 }
 #middler{
     height:200px;
+    background-size: contain;
 }
 .menustaf{
-  width: 24.84%;
+  width: 25%;
   height:100%;
 background-color:white;
 float: left;
+color: white;
+text-align: center;
 }
+
 .vider{
-    
+   text-align: center; 
+}
+.oneof2{
+background-color: lightgray;
+height: 31%;
+color: black;
+padding-top: 12%;
+}
+.oneof21{
+height: 31%;
+background-color: orangered;
+color: white;
+padding-top: 12%;
 }
 .aa{
-    
+  padding-top: ;
+background-image: url(assets/foodtop/breakfast.jpg);
 }
 .ab{
-    
+    background-image: url(assets/foodtop/lunch.jpg);
 }
 .ac{
-    
+ padding-top: ; 
+    background-image: url(assets/foodtop/dinner.jpg);
 }
