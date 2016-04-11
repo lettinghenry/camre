@@ -3,6 +3,8 @@
 - Complete this task.
 - You are expectd to use foundation-zurb framework for this task.
 - Create a website using [core.jpeg](https://github.com/moringaschool/FrontEndExercises/blob/master/psd2html/e4/core.jpg) as a guide to how it will look like finaly.
+- Have the work on the season6 repo.
+- This is pair programming challenge.
 
 
 ### Important:
