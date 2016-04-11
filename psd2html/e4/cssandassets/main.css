@@ -1,0 +1,49 @@
+body{ 
+width: 100%;
+height: auto;
+}
+
+#headt{
+height: 80%;
+width: 100%;
+background-image: url(assets/backgrounds/landing.jpg);
+min-height:635px;
+background-repeat: no-repeat;
+}
+#menu{
+width: 100%;
+min-height:115px;
+}
+#header{
+width: 100%;
+height: 80%;
+color:white;
+text-align: center;
+font-size: 24px;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+#middler{
+    height:200px;
+}
+.menustaf{
+  width: 24.84%;
+  height:100%;
+background-color:white;
+float: left;
+}
+.vider{
+    
+}
+.aa{
+    
+}
+.ab{
+    
+}
+.ac{
+    
+}
